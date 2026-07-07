@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=bms-uxui&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" height="170" />
+  <img src="https://streak-stats.demolab.com/?user=bms-uxui&theme=github-dark-blue&hide_border=true&mode=daily&v=2" alt="GitHub Streak" height="170" />
 </p>
 
 <p align="center">
